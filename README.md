@@ -1,4 +1,3 @@
 # stat100project
-This is a repo for our Stat 100 project
 
-test!
+This is a repo for my fake Stat 100 project, for demonstration purposes only.
